@@ -12,7 +12,7 @@ namespace LB_4
         {
             List<int> array = new List<int>();
 
-            for (int i = 1; i < 64; i++)
+            for (int i = 0; i < 100; i++)
             {
                 array.Add(i);
             }
